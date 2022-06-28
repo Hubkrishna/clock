@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214344854399",
+    "project_id": "clock-d3605",
+    "storage_bucket": "clock-d3605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214344854399:android:24f39eba65653f6306084a",
+        "android_client_info": {
+          "package_name": "com.clock.examcloclapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214344854399-v761ufvomlp2oigme88l7l41h97aubvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXh0QlDnzA3_4_2TRrhRkxVTf8mz1ZkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214344854399-v761ufvomlp2oigme88l7l41h97aubvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
